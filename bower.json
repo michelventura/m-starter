@@ -1,0 +1,19 @@
+{
+  "name": "mich-starter",
+  "version": "1.0",
+  "homepage": "https://github.com/michelventura/mich-starter",
+  "authors": [
+    "Michel Ventura <pmichven@gmail.com>"
+  ],
+  "description": "Genesis starter theme",
+  "license": "GPL-3.0+",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "bourbon": "~4.2.6",
+    "neat": "~1.7.2"
+  }
+}

@@ -1,0 +1,102 @@
+# Copyright (C) 2016 Michel Ventura
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mich Starter 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-04-05 18:45:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: functions.php:82 includes/enqueue-assets.php:31
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: functions.php:83 includes/enqueue-assets.php:38
+msgid "Footer Navigation Menu"
+msgstr ""
+
+#: includes/class-search-form.php:43
+msgid "Search site"
+msgstr ""
+
+#: includes/class-search-form.php:48 includes/class-search-form.php:56
+msgid "Search"
+msgstr ""
+
+#: includes/enqueue-assets.php:30
+msgid "Menu"
+msgstr ""
+
+#: includes/enqueue-assets.php:32 includes/enqueue-assets.php:33
+#: includes/enqueue-assets.php:39 includes/enqueue-assets.php:40
+msgid "Sub Menu"
+msgstr ""
+
+#: includes/enqueue-assets.php:37
+msgid "Footer Menu"
+msgstr ""
+
+
+#: includes/theme-config.php:59
+msgid "Skip to footer navigation"
+msgstr ""
+
+#: includes/theme-config.php:93
+msgid "Page"
+msgstr ""
+
+#: includes/widget-areas.php:27
+msgid "Home Welcome"
+msgstr ""
+
+#: includes/widget-areas.php:28
+msgid "This is the welcome section at the top of the home page."
+msgstr ""
+
+#: includes/widget-areas.php:52
+msgid "Call to Action"
+msgstr ""
+
+#: includes/widget-areas.php:53
+msgid "This is the Call to Action section on the home page."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Mich Starter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Genesis Starter Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Michel Ventura"
+msgstr ""
+
+#: includes/google-fonts.php:39
+msgctxt "Enriqueta font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/google-fonts.php:46
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/widget-areas.php:32 includes/widget-areas.php:37
+#: includes/widget-areas.php:42 includes/widget-areas.php:47
+msgctxt "Group of Home Gallery widget areas"
+msgid "Home Gallery %d"
+msgstr ""
+
+#: includes/widget-areas.php:33 includes/widget-areas.php:38
+#: includes/widget-areas.php:43 includes/widget-areas.php:48
+msgctxt "Description of widget area"
+msgid "Home Gallery %d widget area on home page."
+msgstr ""

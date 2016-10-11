@@ -1,0 +1,25 @@
+/*
+Site Footer
+---------------------------------------------------------------------------------------------------- */
+
+.site-footer {
+	background-color: lighten($black, 5);
+	color: $white;
+	font-size: $footer-font-size;
+	padding: 40px 0;
+	text-align: center;
+}
+
+.site-footer a {
+	color: $white;
+}
+
+.site-footer a:hover {
+	color: #ffe99b;
+	box-shadow: none;
+	border-bottom: 0;
+}
+
+.site-footer p {
+	margin: 0;
+}

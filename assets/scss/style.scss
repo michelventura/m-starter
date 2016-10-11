@@ -1,0 +1,134 @@
+/* #
+	Theme Name: Mich Starter
+	Description: Genesis Starter Theme
+	Author: Michel Ventura
+	Author URI: http://michelventura.com/
+	Version: 1.0
+	Tags: rtl-language-support, translation-ready
+	Template: genesis
+	License: GPL-3.0+
+	License URI: http://www.opensource.org/licenses/gpl-license.php
+	Text Domain: mich-starter
+*/
+
+/* # Table of Contents
+
+	- HTML5 Reset
+		- Baseline Normalize
+		- Box Sizing
+		- Float Clearing
+	- Defaults
+		- Typographical Elements
+		- Headings
+		- Objects
+		- Forms
+		- Tables
+	- Structure and Layout
+		- Site Containers
+		- Sidebar
+		- Column Widths and Positions
+		- Column Classes
+	- Common Classes
+		- WordPress
+		- Media Gallery
+		- Genesis
+	- Widgets
+		- Utility Bar
+		- Home Welcome
+		- Home Gallery
+		- Call to Action
+		- Featured Page and Featured Post
+		- Footer Widgets
+	- Plugins
+		- Genesis eNews Extended
+		- Gravity Forms
+		- Jetpack
+	- Site Header
+		- Title Area
+		- Widget Area
+	- Site Navigation
+		- Mobile Menu Toggle
+		- Header Navigation
+		- Primary & Secondary Navigation
+	- Content Area
+		- Titles
+		- Entries
+		- Featured Image
+		- Pagination
+		- Comments
+	- Sidebars
+	- Site Footer
+	- Accessibility Extras
+	- Print Media Query
+*/
+
+@import "vendor/bourbon/bourbon";
+@import "vendor/neat/neat";
+
+/* Resets
+---------------------------------------------------------------------------------------------------- */
+@import "partials/reset";
+
+
+/* # Variables
+---------------------------------------------------------------------------------------------------- */
+@import "partials/variables";
+
+
+/* Defaults
+---------------------------------------------------------------------------------------------------- */
+@import "partials/defaults";
+
+
+/* # Structure & Layout
+---------------------------------------------------------------------------------------------------- */
+@import "partials/layout";
+
+
+/* # Common
+---------------------------------------------------------------------------------------------------- */
+@import "partials/common-classes";
+
+
+/* # Widgets
+---------------------------------------------------------------------------------------------------- */
+@import "partials/widgets";
+
+
+/* # Plugins
+---------------------------------------------------------------------------------------------------- */
+@import "partials/plugins";
+
+
+/* # Site Header
+---------------------------------------------------------------------------------------------------- */
+@import "partials/header";
+
+
+/* # Site Navigation
+---------------------------------------------------------------------------------------------------- */
+@import "partials/navigation";
+
+
+/* # Content Area
+---------------------------------------------------------------------------------------------------- */
+@import "partials/content-area";
+
+
+/* Site Footer
+---------------------------------------------------------------------------------------------------- */
+@import "partials/site-footer";
+
+
+/* # Accessibility Extras
+---------------------------------------------------------------------------------------------------- */
+@import "partials/accessibility";
+
+
+/* # Print Media Query
+---------------------------------------------------------------------------------------------------- */
+@import "partials/print-media-queries";
+
+/* # Custom styles
+---------------------------------------------------------------------------------------------------- */
+@import "partials/custom";

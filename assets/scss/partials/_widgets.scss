@@ -1,0 +1,240 @@
+/*
+Widgets
+---------------------------------------------------------------------------------------------------- */
+
+/* Inicio titulo
+--------------------------------------------- */
+
+.starter-inicio-titulo {
+	background: $white;
+	padding-top: 40px;
+	text-align: center;
+}
+
+
+.starter-inicio-titulo h3 {
+	font-size: 30px;
+}
+
+/* Home Welcome
+--------------------------------------------- */
+
+.seccion-hero {
+	background: rgba(135, 113, 199, 0.23);
+	padding: 160px 0 80px 0;
+}
+
+.seccion-hero .widgettitle {
+	color: $black;
+	padding-bottom: 20px;
+	text-transform: none;
+	text-align: center;
+	font-size: 40px;
+}
+
+a.cta-inicio {
+	color: $white;
+}
+
+.seccion-hero p,
+.seccion-hero .textwidget {
+	@include media($smaller-screen-up) {
+		line-height: normal;
+	}
+}
+
+.seccion-hero {
+		@include media(max-width 1024px) {
+			padding: 80px 0 40px 0;
+  	}
+}
+
+/* Home Servicios
+--------------------------------------------- */
+
+.home-servicio {
+	background: $white;
+	padding: 20px 0 20px;
+}
+
+.home-servicio .fa {
+	color: $black;
+	font-size: 85px;
+}
+
+.home-servicio .widget {
+	padding: 0 20px;
+}
+
+.home-servicio-1,
+.home-servicio-2 {
+	width: 47.5%; /* 570px / 1200px */
+	float: left;
+	text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+
+	.home-servicio-1,
+	.home-servicio-2 {
+		width: 100%;
+		text-align: center;
+	}
+
+	.home-servicio-1 {
+		margin-right: 0;
+	}
+
+}
+
+/* Latests posts home
+--------------------------------------------- */
+
+.ultimas-publicaciones .wrap{
+// 	padding: 0;
+}
+
+
+.home-latest-posts {
+	background: $white;
+}
+
+/* Call to Action
+--------------------------------------------- */
+
+.call-to-action-bar {
+	background: lighten($blue, 10);
+// 	background: rgba(51, 51, 51, 0.8);
+	color: $white;
+	padding: 40px 0;
+	text-align: center;
+
+	@include media($medium-screen-up) {
+		text-align: left;
+	}
+}
+
+.call-to-action-bar .enews p {
+	margin: 12px 0;
+	width: 100%;
+
+	@include media($medium-screen-up) {
+		clear: left;
+		float: left;
+		margin-bottom: 0;
+		width: 35%;
+	}
+}
+
+@include media($medium-screen-up) {
+
+	.call-to-action-bar .enews-widget input[type="submit"] {
+		float: right;
+ 		margin: -2px 0 0;
+		width: 35%;
+	}
+
+	.call-to-action-bar .enews form {
+		float: right;
+		text-align: right;
+		width: 60%;
+	}
+
+	.call-to-action-bar .enews input[type="email"] {
+		height: 53px;
+		margin-right: 3px;
+		position: relative;
+		top: -2px;
+		width: 60%;
+	}
+
+}
+
+/* Featured Page and Featured Post
+--------------------------------------------- */
+
+.featured-content .entry {
+	border-bottom: 2px solid lighten($black, 92);
+	padding: 10px 0;
+}
+
+.sidebar .featured-content .entry {
+	border-bottom: 0;
+	margin-bottom: 10px;
+}
+
+.featured-content .entry-title {
+	font-size: 18px;
+	margin: 10px 0;
+}
+
+/* Custom Home without posts via WP Query
+--------------------------------------------- */
+	.home .site-inner {
+		display: none;
+}
+
+/*
+Footer Widgets
+---------------------------------------------------------------------------------------------------- */
+
+.footer-widgets {
+	background: lighten($black, 11);
+	color: $white;
+	padding: 40px 0;
+}
+
+.footer-widgets-1,
+.footer-widgets-2 {
+	width: 47.5%; /* 570px / 1200px */
+	float: left;
+}
+
+.footer-widgets-1 {
+	margin-right: 5%; /* 60px / 1200px */
+}
+
+@media only screen and (max-width: 768px) {
+
+	.footer-widgets-1,
+	.footer-widgets-2 {
+		width: 100%;
+	}
+
+	.footer-widgets-1 {
+		margin-right: 0;
+	}
+
+}
+
+.footer-widgets a {
+	color: $white;
+}
+
+.footer-widgets a:hover {
+	color: lighten($black, 79);
+}
+
+.footer-widgets .widget {
+	margin-bottom: 24px;
+}
+
+.footer-widgets .widgettitle {
+	color: $white;
+	font-size: 20px;
+}
+
+.footer-widgets .entry {
+	background: transparent;
+}
+
+.footer-widgets li {
+	list-style-type: none;
+	margin-bottom: 6px;
+	word-wrap: break-word;
+}
+
+.footer-widgets .search-form input[type="search"] {
+	width: 100%;
+}
+
