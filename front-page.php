@@ -20,7 +20,7 @@ function mich_starter_homepage_setup() {
 		'seccion_hero' 	   => is_active_sidebar( 'starter-inicio-bienvenido' ),
 		'inicio_titulo'    => is_active_sidebar( 'starter-inicio-titulo' ),
 		'home_servicio_1'  => is_active_sidebar( 'starter-home-servicio-1' ),
-		'ultimas_publicaciones'   => is_active_sidebar( 'starter-ultimas-publicaciones' ),
+		'ultimas_publicaciones' => is_active_sidebar( 'starter-ultimas-publicaciones' ),
 		'call_to_action'   => is_active_sidebar( 'starter-call-to-action' ),
 	);
 

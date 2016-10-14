@@ -369,5 +369,8 @@ if ( !is_page() ) {
 //* Customize the author box title
 add_filter( 'genesis_author_box_title', 'custom_author_box_title' );
 function custom_author_box_title() {
-	return '<strong>Un poco sobre Mich</strong>';
+	return '<strong>Sobre Mich</strong>';
 }
+
+//* Remove the edit link
+add_filter ( 'genesis_edit_post_link' , '__return_false' );

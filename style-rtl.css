@@ -1280,7 +1280,7 @@ img.alignnone,
 --------------------------------------------- */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_common-classes\.scss}line{font-family:\00003182}}
 .breadcrumb {
-  margin-bottom: 20px;
+  margin: 20px 0;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_common-classes\.scss}line{font-family:\00003186}}
@@ -1392,26 +1392,27 @@ Widgets
 --------------------------------------------- */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000322}}
 .seccion-hero {
-  background: rgba(135, 113, 199, 0.23);
+  background: rgba(122, 97, 220, 0.6);
   padding: 160px 0 80px 0;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000327}}
 .seccion-hero .widgettitle {
-  color: #000;
+  color: #ebebeb;
   padding-bottom: 20px;
   text-transform: none;
+  text-shadow: 3px 2px 1px #000000;
   text-align: center;
   font-size: 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000336}}
 a.cta-inicio {
   color: #fff;
 }
 
 @media screen and (min-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000340}}
   .seccion-hero p,
   .seccion-hero .textwidget {
     line-height: normal;
@@ -1419,7 +1420,7 @@ a.cta-inicio {
 }
 
 @media screen and (max-width: 1024px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000347}}
   .seccion-hero {
     padding: 80px 0 40px 0;
   }
@@ -1427,24 +1428,24 @@ a.cta-inicio {
 
 /* Home Servicios
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000356}}
 .home-servicio {
   background: #fff;
   padding: 20px 0 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000361}}
 .home-servicio .fa {
   color: #000;
   font-size: 85px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000366}}
 .home-servicio .widget {
   padding: 0 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000370}}
 .home-servicio-1,
 .home-servicio-2 {
   width: 47.5%;
@@ -1454,28 +1455,28 @@ a.cta-inicio {
 }
 
 @media only screen and (max-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000379}}
   .home-servicio-1,
   .home-servicio-2 {
     width: 100%;
     text-align: center;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000385}}
   .home-servicio-1 {
     margin-left: 0;
   }
 }
 /* Latests posts home
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\0000399}}
 .home-latest-posts {
   background: #fff;
 }
 
 /* Call to Action
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003106}}
 .call-to-action-bar {
   background: #237ef6;
   color: #fff;
@@ -1483,19 +1484,19 @@ a.cta-inicio {
   text-align: center;
 }
 @media screen and (min-width: 1023px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003106}}
   .call-to-action-bar {
     text-align: right;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003117}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003118}}
 .call-to-action-bar .enews p {
   margin: 12px 0;
   width: 100%;
 }
 @media screen and (min-width: 1023px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003117}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003118}}
   .call-to-action-bar .enews p {
     clear: right;
     float: right;
@@ -1505,21 +1506,21 @@ a.cta-inicio {
 }
 
 @media screen and (min-width: 1023px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003131}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003132}}
   .call-to-action-bar .enews-widget input[type="submit"] {
     float: left;
     margin: -2px 0 0;
     width: 35%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003137}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003138}}
   .call-to-action-bar .enews form {
     float: left;
     text-align: left;
     width: 60%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003143}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003144}}
   .call-to-action-bar .enews input[type="email"] {
     height: 53px;
     margin-left: 3px;
@@ -1530,19 +1531,19 @@ a.cta-inicio {
 }
 /* Featured Page and Featured Post
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003157}}
 .featured-content .entry {
   border-bottom: 2px solid #ebebeb;
   padding: 10px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003161}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003162}}
 .sidebar .featured-content .entry {
   border-bottom: 0;
   margin-bottom: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003166}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003167}}
 .featured-content .entry-title {
   font-size: 18px;
   margin: 10px 0;
@@ -1550,7 +1551,7 @@ a.cta-inicio {
 
 /* Custom Home without posts via WP Query
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003174}}
 .home .site-inner {
   display: none;
 }
@@ -1558,14 +1559,14 @@ a.cta-inicio {
 /*
 Footer Widgets
 ---------------------------------------------------------------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003182}}
 .footer-widgets {
   background: #1c1c1c;
   color: #fff;
   padding: 40px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003187}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003188}}
 .footer-widgets-1,
 .footer-widgets-2 {
   width: 47.5%;
@@ -1573,58 +1574,58 @@ Footer Widgets
   float: right;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003193}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003194}}
 .footer-widgets-1 {
   margin-left: 5%;
   /* 60px / 1200px */
 }
 
 @media only screen and (max-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003200}}
   .footer-widgets-1,
   .footer-widgets-2 {
     width: 100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003204}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003205}}
   .footer-widgets-1 {
     margin-left: 0;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003210}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003211}}
 .footer-widgets a {
   color: #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003215}}
 .footer-widgets a:hover {
   color: #c9c9c9;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003218}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003219}}
 .footer-widgets .widget {
   margin-bottom: 24px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003222}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003223}}
 .footer-widgets .widgettitle {
   color: #fff;
   font-size: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003227}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003228}}
 .footer-widgets .entry {
   background: transparent;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003232}}
 .footer-widgets li {
   list-style-type: none;
   margin-bottom: 6px;
   word-wrap: break-word;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003237}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_widgets\.scss}line{font-family:\00003238}}
 .footer-widgets .search-form input[type="search"] {
   width: 100%;
 }
@@ -1638,55 +1639,55 @@ Plugins
 --------------------------------------------- */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\000038}}
 .enews-widget {
-  color: #c9c9c9;
+  color: whitesmoke;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000313}}
 .enews-widget a {
   color: #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000317}}
 .enews-widget a:hover {
   color: #c9c9c9;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000321}}
 .enews-widget .widgettitle {
   color: #fff;
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000326}}
 .enews-widget input {
   margin-bottom: 16px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000330}}
 .enews-widget input[type="submit"] {
   margin: 0;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000335}}
 .sidebar .enews-widget .widgettitle {
   margin: 10px 0 24px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000339}}
 .sidebar .widget.enews-widget {
   background-color: #1c1c1c;
   border-top: 1px solid #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000344}}
 .sidebar .enews-widget .widget-wrap {
   border-top: 5px solid #fff;
 }
 
 /* ## Gravity Forms
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000351}}
 div.gform_wrapper input[type="email"],
 div.gform_wrapper input[type="text"],
 div.gform_wrapper textarea,
@@ -1694,18 +1695,18 @@ div.gform_wrapper .ginput_complex label {
   padding: 16px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000358}}
 div.gform_wrapper .ginput_complex label {
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000362}}
 div.gform_wrapper li,
 div.gform_wrapper form li {
   margin: 16px 0 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000367}}
 .sidebar .gform_wrapper .top_label input.medium,
 .sidebar .gform_wrapper .top_label select.medium,
 .site-inner .gform_wrapper .gform_footer input.button,
@@ -1713,7 +1714,7 @@ div.gform_wrapper form li {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000374}}
 div.gform_wrapper input:focus,
 div.gform_wrapper textarea:focus {
   outline: 1px dotted #a1a1a1;
@@ -1721,7 +1722,7 @@ div.gform_wrapper textarea:focus {
 
 /* ## Image Widget
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000381}}
 .home .widget_sp_image {
   display: inline-block;
   padding: 10px;
@@ -1729,18 +1730,18 @@ div.gform_wrapper textarea:focus {
 
 /* Advanced Custom Fields
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000389}}
 .no-post-edit-link a.post-edit-link {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000393}}
 .open-close-btns {
   text-align: left;
   margin-bottom: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000397}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\0000398}}
 .open-close-btns button {
   background: transparent;
   padding: 4px;
@@ -1748,17 +1749,17 @@ div.gform_wrapper textarea:focus {
   font-size: 14px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003105}}
 span.pipe {
   font-size: 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003109}}
 .faq {
   margin-bottom: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003112}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003113}}
 .faq .question {
   background-color: #005370;
   font-weight: normal;
@@ -1767,35 +1768,35 @@ span.pipe {
   line-height: 1.3;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003121}}
 .faq .question a {
   color: #d6cecc;
   display: block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003126}}
 .faq .question a:hover {
   color: #b08b11;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003129}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003130}}
 .faq .question a:focus,
 .open-close-btns button:focus {
   outline: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003134}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003135}}
 .faq .question a,
 .faq .answer {
   padding: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003140}}
 .faq .answer {
   background-color: #f5f5f5;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003143}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003144}}
 .faq .question a:after {
   content: '\f107';
   font-family: FontAwesome;
@@ -1803,20 +1804,20 @@ span.pipe {
   text-shadow: 0px 2px 3px #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003150}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003151}}
 .faq .question.open a:after {
   content: '\f106';
 }
 
 /* Custom Featured Posts Widget
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003158}}
 .ultimas-publicaciones {
   margin: 40px 0;
   background-color: #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003163}}
 .ultimas-publicaciones .widget-title {
   max-width: 400px;
   margin: 0 auto;
@@ -1829,18 +1830,18 @@ span.pipe {
   font-size: 24px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003175}}
 .ultimas-publicaciones a {
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003178}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003179}}
 .ultimas-publicaciones .gfpc-widget .entry-header {
   overflow: hidden;
   margin-bottom: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003184}}
 .ultimas-publicaciones .gfpc-widget .entry-header .entry-meta {
   margin-right: 0.1px;
   margin-bottom: 0;
@@ -1858,20 +1859,20 @@ span.pipe {
   padding-top: 14px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003200}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003201}}
 .ultimas-publicaciones .gfpc-widget .entry {
   padding: 20px 0;
   margin-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003206}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003207}}
 .ultimas-publicaciones .gfpc-widget .entry-title {
   font-size: 28px;
   margin-top: 8px;
   margin-right: 70px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003215}}
 .ultimas-publicaciones .gfpc-widget .more-link {
   color: #0a6ff5;
   padding: 4px 16px;
@@ -1880,31 +1881,31 @@ span.pipe {
   font-style: italic;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003227}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003228}}
 .ultimas-publicaciones .gfpc-widget .more-link:hover {
   background-color: #fff5d1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003232}}
 .home .post-2161 {
   margin-top: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003235}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003236}}
 .home .entry-title {
   text-align: right;
 }
 
 /* ## Simple social icons
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003241}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003242}}
 #simple-social-icons-1 {
   padding-top: 14px;
 }
 
 /* Genesis simple share
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003248}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_plugins\.scss}line{font-family:\00003249}}
 .share-before {
   margin-top: 10px;
 }
@@ -2370,24 +2371,27 @@ Content Area
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000334}}
 .archive-title {
-  color: #e3e3e3;
+  color: whitesmoke;
   margin-bottom: 24px;
+  text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000340}}
 .archive-description {
-  color: #e3e3e3;
+  color: whitesmoke;
   background-color: #0a89c0;
+  text-align: center;
+  font-size: 18px;
 }
 
 /* Entries
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000350}}
 .sticky.entry {
   border-top: 1px solid #0964dd;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000354}}
 .entry {
   background: #fff;
   margin-bottom: 40px;
@@ -2395,30 +2399,30 @@ Content Area
   word-wrap: break-word;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000362}}
 .entry-content a {
   color: #0964dd;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000366}}
 .entry-content a:hover {
   color: #1c1c1c;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000370}}
 .entry-content .attachment a,
 .entry-content .gallery a {
   border: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000375}}
 .entry-content ol,
 .entry-content ul,
 .quote-caption {
   margin-bottom: 26px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000381}}
 .entry-content ol ol,
 .entry-content ul ul,
 .entry-content ol ul,
@@ -2426,35 +2430,35 @@ Content Area
   margin-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000388}}
 .entry-content ol li,
 .entry-content ul li {
   margin-right: 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000393}}
 .entry-content ol > li {
   list-style-type: decimal;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000397}}
 .entry-content ul > li {
   list-style-type: disc;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003101}}
 .entry-content ul.icons-ul > li {
   list-style-type: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003105}}
 .entry-content ol ol,
 .entry-content ul ul,
 .entry-content .wp-caption p {
   margin-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003111}}
 .entry-content code {
   background-color: #1c1c1c;
   color: #d9d9d9;
@@ -2462,13 +2466,13 @@ Content Area
 
 /* ## Entry Meta
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003119}}
 .entry-meta {
   color: #545454;
   font-size: 14px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003121}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003124}}
 .entry-header .entry-meta {
   background-color: #ebebeb;
   margin: 0 -40px 24px;
@@ -2476,20 +2480,20 @@ Content Area
   text-align: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003131}}
 .entry-footer .entry-meta {
   border-top: 2px solid #ebebeb;
   margin: 0 -40px;
   padding: 32px 40px 8px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003134}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003137}}
 .entry-comments-link::before {
   content: "\2014";
   margin: 0 2px 0 6px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003142}}
 .entry-categories,
 .entry-tags {
   color: #080808;
@@ -2499,25 +2503,25 @@ Content Area
 
 /* Featured Image
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003149}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003152}}
 .featured-image {
   margin: 20px 0;
 }
 
 /* Pagination
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003159}}
 .pagination,
 .posts-navigation {
   margin-bottom: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003161}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003164}}
 .pagination .nav-links {
   display: inline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003168}}
 .pagination .nav-links a,
 .pagination .nav-links .current {
   background: #1c1c1c;
@@ -2528,14 +2532,14 @@ Content Area
   padding: 8px 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003175}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003178}}
 .pagination .nav-links a:hover {
   background: #fff;
   border: 1px solid #1c1c1c;
   color: #1c1c1c;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003181}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003184}}
 .pagination .nav-links .current {
   background: #545454;
   border: 1px solid #fff;
@@ -2543,14 +2547,14 @@ Content Area
   cursor: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003188}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003191}}
 .entry-pagination {
   margin: 30px 0;
 }
 
 /* Comments
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003195}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003198}}
 .comment-respond,
 .entry-comments,
 .entry-pings {
@@ -2559,32 +2563,32 @@ Content Area
   margin-bottom: 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003203}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003206}}
 .comment-respond input[type="email"],
 .comment-respond input[type="text"],
 .comment-respond input[type="url"] {
   width: 50%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003212}}
 .comment-respond label {
   display: block;
   margin-left: 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003217}}
 .entry-comments ul.children {
   margin-right: 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003218}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003221}}
 .comment-list li,
 .ping-list li {
   list-style-type: none;
   margin-top: 24px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003224}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003227}}
 .comment-meta,
 .entry-comments
 .comment,
@@ -2592,19 +2596,19 @@ Content Area
   margin-bottom: 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003234}}
 p.form-submit,
 .entry-comments .children .comment,
 .entry-comments .comment-author {
   margin-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003237}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003240}}
 .comment .avatar {
   margin: 0 0 24px 16px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003241}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003244}}
 .form-allowed-tags {
   font-size: 14px;
 }
@@ -2614,7 +2618,7 @@ Page specific
 ---------------------------------------------------------------------------------------------------- */
 /* Blog
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003251}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003254}}
 .blog .archive-description {
   display: none;
 }
@@ -2626,12 +2630,12 @@ Page specific
 	padding: 32px 40px 8px;
 }
 */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003261}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003264}}
 .blog .entry-footer .entry-meta {
   float: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003265}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_content-area\.scss}line{font-family:\00003268}}
 .blog .entry-footer .entry-categories {
   color: #1c1c1c;
   font-weight: bold;
@@ -2904,19 +2908,19 @@ Print Media Query
     border: 1px solid #d9d9d9;
   }
 }
-/* # Custom styles
+/* # Pagina propuesta de valor
 ---------------------------------------------------------------------------------------------------- */
 /*
-Custom styles
+Pagina de propuesta de valor Mich
 ---------------------------------------------------------------------------------------------------- */
-/* Flexbod styles 
+/* Flexbod styles
 --------------------------------------------- */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\000038}}
 .flexbox-grid {
   margin-top: 40px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000312}}
 .box-row {
   padding: 20px;
   margin-bottom: 20px;
@@ -2924,7 +2928,117 @@ Custom styles
   border-radius: 2px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000319}}
 .flexbox-grid p {
   margin-bottom: 0;
+}
+
+/* Start here page
+--------------------------------------------- */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000326}}
+.page-id-2177 .entry-header {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000330}}
+.site-inner {
+  background: none;
+  padding-top: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000335}}
+.usp-start {
+  padding: 20px;
+  text-align: center;
+  font-size: 32px;
+  line-height: 1.3em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000342}}
+.centrado {
+  margin: 0 auto;
+  padding: 0;
+}
+
+@media screen and (min-width: 65em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000348}}
+  .centrado {
+    max-width: 65em;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000353}}
+.mv-propuesta {
+  margin-bottom: 1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000357}}
+.mv-propuesta a {
+  color: black;
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000362}}
+.mv-propuesta a:hover {
+  box-shadow: -3px 3px 8px #b3b3b3;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000366}}
+.mv-propuesta-content {
+  padding: 1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000370}}
+.mv-propuesta-content h2 {
+  margin-top: 0;
+  margin-bottom: .5em;
+  font-weight: 400;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000376}}
+.mv-propuesta-content p {
+  font-size: 96%;
+}
+
+/* Flexbox stuff */
+@media screen and (min-width: 40em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000383}}
+  .mv-propuestas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: -1em;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000390}}
+  .mv-propuesta {
+    display: flex;
+    flex: 0 1 calc(50% - .5em);
+    margin-bottom: 1.5em;
+  }
+}
+@media screen and (min-width: 60em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\0000398}}
+  .mv-propuestas {
+    margin-top: inherit;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\00003102}}
+  .mv-propuesta {
+    flex: 0 1 calc(33% - 1em);
+    margin-bottom: 0.3em;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\00003108}}
+.entry-content a img {
+  vertical-align: top;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\00003112}}
+div.panel {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mich\/WPSites\/michstart\/app\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_pagina-usp\.scss}line{font-family:\00003116}}
+div.panel.show {
+  display: block !important;
 }

@@ -6,7 +6,8 @@ Plugins
 --------------------------------------------- */
 
 .enews-widget {
-	color: lighten($black, 79);
+	// color: lighten($black, 79);
+	color: darken($white, 4);
 }
 
 .enews-widget a {

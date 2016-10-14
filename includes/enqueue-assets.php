@@ -26,6 +26,9 @@ function mich_starter_enqueue_assets() {
 	// Load mobile responsive menu.
 	wp_enqueue_script( 'mich-starter-responsive-menu', get_stylesheet_directory_uri() . '/js/responsive-menu.min.js', array( 'jquery' ), '1.0.0', true );
 
+	// Load interactive switcher.
+	wp_enqueue_script( 'mich-starter-interactive-switcher', get_stylesheet_directory_uri() . '/js/interactive-switcher.js', array( 'jquery' ), '1.0.0', true );
+
 	$localize_primary = array(
 		'buttonText'     => __( 'Menu', 'mich-starter' ),
 		'buttonLabel'    => __( 'Primary Navigation Menu', 'mich-starter' ),

@@ -20,14 +20,15 @@ Widgets
 --------------------------------------------- */
 
 .seccion-hero {
-	background: rgba(135, 113, 199, 0.23);
+	background: rgba(122, 97, 220, 0.6);
 	padding: 160px 0 80px 0;
 }
 
 .seccion-hero .widgettitle {
-	color: $black;
+	color: rgb(235, 235, 235);
 	padding-bottom: 20px;
 	text-transform: none;
+	text-shadow:-3px 2px 1px #000000;
 	text-align: center;
 	font-size: 40px;
 }
@@ -237,4 +238,3 @@ Footer Widgets
 .footer-widgets .search-form input[type="search"] {
 	width: 100%;
 }
-
