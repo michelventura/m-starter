@@ -28,8 +28,8 @@ Pagina de propuesta de valor Mich
 }
 
 .site-inner {
-    background: none;
-    padding-top: 0;
+     background: none;
+     padding-top: 10px;
 }
 
 .usp-start {
@@ -109,10 +109,29 @@ Pagina de propuesta de valor Mich
 	vertical-align: top;
 }
 
-div.panel {
-    display: none;
+.display-uno,
+.display-dos,
+.display-tres {
+	display: none;
 }
 
-div.panel.show {
-    display: block !important;
+.titulo-propuesta {
+  padding: 30px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: normal;
+}
+
+.contenido-propuestas p,
+.contenido-propuestas li {
+  font-size: 20px;
+}
+
+.precio {
+  font-weight: 700;
+}
+
+.disclaimer {
+  font-size: 16px !important;
+  font-weight: bold;
 }
