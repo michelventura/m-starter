@@ -13,14 +13,14 @@ function custom_genesis_servicespage_loop() {
 
 <div class="usp-start">
 <h1>¿Cómo puedo aportar valor a tu negocio?</h1>
-<p>Te ofrezco soluciones que se acoplen a tu situación actual.<a href="http://michstart.dev/servicios/#soluciones" rel="m_PageScroll2id"> Selecciona y da clic en una de las siguientes</a> para conocer más.</p>
+<p>Te ofrezco soluciones que se acoplen a tu situación actual.<a href="http://mihelventura.com/servicios/#soluciones" rel="m_PageScroll2id"> Selecciona y da clic en una de las siguientes</a> para conocer más.</p>
 </div>
 <div class="centrado">
         <section class="mv-propuestas">
             <article class="mv-propuesta propuesta-uno">
-                <a href="http://michstart.dev/servicios/#uno" rel="m_PageScroll2id" class="diy">
+                <a href="http://michelventura.com/servicios/#uno" rel="m_PageScroll2id" class="diy">
                     <figure class="mv-thumbnail">
-                        <img src="http://michstart.dev/wp-content/uploads/one.png" alt="Propuesta uno">
+                        <img src="http://michelventura.com/wp-content/uploads/one.png" alt="Propuesta uno">
                     </figure>
                     <div class="mv-propuesta-content">
                         <h2>Hazlo tú solo, yo te enseño.</h2>
@@ -29,9 +29,9 @@ function custom_genesis_servicespage_loop() {
       </a>
             </article>
             <article class="mv-propuesta propuesta-dos">
-                <a href="http://michstart.dev/servicios/#dos" rel="m_PageScroll2id" class="diwm">
+                <a href="http://michelventura.com/servicios/#dos" rel="m_PageScroll2id" class="diwm">
                     <figure class="mv-thumbnail">
-                        <img src="http://michstart.dev/wp-content/uploads/two.png" alt="Propuesta dos">
+                        <img src="http://michelventura.com/wp-content/uploads/two.png" alt="Propuesta dos">
                     </figure>
                     <div class="mv-propuesta-content">
                         <h2>Te ayudo a hacerlo, tú le sigues.</h2>
@@ -40,9 +40,9 @@ function custom_genesis_servicespage_loop() {
                 </a>
             </article>
             <article class="mv-propuesta propuesta-tres">
-                <a href="http://michstart.dev/servicios/#tres" rel="m_PageScroll2id" class="ldt">
+                <a href="http://michelventura.com/servicios/#tres" rel="m_PageScroll2id" class="ldt">
                     <figure class="mv-thumbnail">
-                        <img src="http://michstart.dev/wp-content/uploads/three.png" alt="Propuesta tres">
+                        <img src="http://michelventura.com/wp-content/uploads/three.png" alt="Propuesta tres">
                     </figure>
                     <div class="mv-propuesta-content">
                         <h2>Lo aterrizamos juntos y yo le sigo.</h2>
@@ -62,7 +62,7 @@ function custom_genesis_servicespage_loop() {
   <li>Mantener tu sitio web seguro con una estrategia de actualizaciones y backups que te evite dolores de cabeza.</li>
   <li>Cómo utilizar y sacar el máximo provecho de tu contenido para atraer a clientes y prospectos interesados en lo que tu haces.</li>
 </ul>
-<p>Estos videos están en producción pero, si estás interesado en aprender, <a href="http://michstart.dev/contacto/">deja tus datos</a> y yo te aviso cuando todo esté listo.</p>
+<p>Estos videos están en producción pero, si estás interesado en aprender, <a href="http://melventura.com/contacto/">deja tus datos</a> y yo te aviso cuando todo esté listo.</p>
 <p class="disclaimer">Te recomiendo que utilices las mismas herramientas que yo para que puedas seguirme sin complicación mas esto es totalmente opcional. En algunos casos, te dejaré enlaces de productos que utilizo y recomiendo de los cuales soy afiliado, así que si das clic en alguno de esos enlaces y compras a través de estos yo gano una comisión.</p>
 </article>
 <article id="dos" class="opcion-dos display-dos">
