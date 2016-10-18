@@ -56,3 +56,28 @@ Accessibility Extras - Taken from the Leiden theme & Genesis Accessible plugin (
 	color: lighten($black, 11);
 	outline: lighten($black, 63) dotted thin;
 }
+
+/*
+Clear fix for column classes
+--------------------------- */
+.clear-line:after {
+  	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.clear-line {
+	display: inline-block;
+	width: 100%;
+}
+
+html[xmlns] .clear-line {
+	display: block;
+}
+
+* html .clear-line {
+	height: 1%;
+}
