@@ -23,7 +23,7 @@ Pagina de propuesta de valor Mich
 /* Start here page
 --------------------------------------------- */
 
-.page-id-2177 .entry-header {
+.page-id-2262 .entry-header {
   display: none;
 }
 
@@ -128,10 +128,16 @@ Pagina de propuesta de valor Mich
 }
 
 .precio {
+  padding: 15px;
   font-weight: 700;
+}
+
+.incluye {
+ font-weight: bold;
 }
 
 .disclaimer {
   font-size: 16px !important;
+  font-style: italic;
   font-weight: bold;
 }
