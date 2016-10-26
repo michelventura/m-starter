@@ -13,7 +13,7 @@ function custom_genesis_servicespage_loop() {
 
 <div class="usp-start">
 <h1>¿Cómo puedo aportar valor a tu negocio?</h1>
-<p>Te ofrezco soluciones que se acoplen a tu situación actual.<a href="http://mihelventura.com/servicios/#soluciones" rel="m_PageScroll2id"> Selecciona y da clic en una de las siguientes</a> para conocer más.</p>
+<p>Te ofrezco soluciones que se acoplen a tu situación actual.<span class="soluciones-de-desarrollo"> Da clic en la que sea de tu interés</span> para darte más detalles.</p>
 </div>
 <div class="centrado">
         <section class="mv-propuestas">
@@ -62,7 +62,7 @@ function custom_genesis_servicespage_loop() {
   <li>Mantener tu sitio web seguro con una estrategia de actualizaciones y backups que te evite dolores de cabeza.</li>
   <li>Cómo utilizar y sacar el máximo provecho de tu contenido para atraer a clientes y prospectos interesados en lo que tu haces.</li>
 </ul>
-<p>Estos videos están en producción pero, si estás interesado en aprender, <a href="http://melventura.com/contacto/">deja tus datos</a> y yo te aviso cuando todo esté listo.</p>
+<p>Estos videos aún están en producción pero si te interesa aprender, <a href="http://michelventura.com/contacto">regístrate</a> y yo te aviso cuando todo esté listo.</p>
 <p class="disclaimer">Te recomiendo que utilices las mismas herramientas que yo para que puedas seguirme sin complicación mas esto es totalmente opcional. En algunos casos, te dejaré enlaces de productos que utilizo y recomiendo de los cuales soy afiliado, así que si das clic en alguno de esos enlaces y compras a través de estos yo gano una comisión.</p>
 </article>
 <article id="dos" class="opcion-dos display-dos">

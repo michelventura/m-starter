@@ -2984,53 +2984,66 @@ Pagina Servicios
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000342}}
+.soluciones-de-desarrollo {
+  color: #0964dd;
+  border-bottom: 1px dotted;
+  font-weight: bold;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000348}}
+.page-id-2262 article,
+.page-id-2262 article ul {
+  padding: 0 20px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000353}}
 .centrado {
   margin: 0 auto;
   padding: 0;
 }
 
 @media screen and (min-width: 65em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000359}}
   .centrado {
     max-width: 65em;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000364}}
 .mv-propuesta {
   margin-bottom: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000368}}
 .mv-propuesta a {
   color: black;
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000373}}
 .mv-propuesta a:hover {
   box-shadow: 3px 3px 8px #b3b3b3;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000377}}
 .mv-propuesta-content {
   padding: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000381}}
 .mv-propuesta-content h2 {
   margin-top: 0;
   margin-bottom: .5em;
   font-weight: 400;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000387}}
 .mv-propuesta-content p {
   font-size: 96%;
 }
 
 /* Flexbox stuff */
 @media screen and (min-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000394}}
   .mv-propuestas {
     display: flex;
     flex-wrap: wrap;
@@ -3038,7 +3051,7 @@ Pagina Servicios
     margin-top: -1em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003101}}
   .mv-propuesta {
     display: flex;
     flex: 0 1 calc(50% - .5em);
@@ -3046,30 +3059,30 @@ Pagina Servicios
   }
 }
 @media screen and (min-width: 60em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003109}}
   .mv-propuestas {
     margin-top: inherit;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003113}}
   .mv-propuesta {
     flex: 0 1 calc(33% - 1em);
     margin-bottom: 0.3em;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003119}}
 .entry-content a img {
   vertical-align: top;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003112}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003123}}
 .display-uno,
 .display-dos,
 .display-tres {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003129}}
 .titulo-propuesta {
   padding: 40px 20px;
   text-align: center;
@@ -3077,24 +3090,24 @@ Pagina Servicios
   font-weight: normal;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003136}}
 .contenido-propuestas p,
 .contenido-propuestas li {
   font-size: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003141}}
 .precio {
   padding: 15px;
   font-weight: 700;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003146}}
 .incluye {
   font-weight: bold;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003150}}
 .disclaimer {
   font-size: 16px !important;
   font-style: italic;
