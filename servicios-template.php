@@ -53,7 +53,7 @@ function custom_genesis_servicespage_loop() {
         </section>
     </div>
 <section id="soluciones" class="contenido-propuestas">
-<article id="uno"class="opcion-uno display-uno">
+<article id="uno">
 <h2 class="titulo-propuesta">Hazlo tú solo, yo te enseño.</h2>
 <p>Si eres de los que no tienen miedo de picarle, esta opción es para ti. En esta serie de videos te enseño a:</p>
 <ul>
@@ -65,7 +65,7 @@ function custom_genesis_servicespage_loop() {
 <p>Estos videos aún están en producción pero si te interesa aprender, <a href="http://michelventura.com/contacto">regístrate</a> y yo te aviso cuando todo esté listo.</p>
 <p class="disclaimer">Te recomiendo que utilices las mismas herramientas que yo para que puedas seguirme sin complicación mas esto es totalmente opcional. En algunos casos, te dejaré enlaces de productos que utilizo y recomiendo de los cuales soy afiliado, así que si das clic en alguno de esos enlaces y compras a través de estos yo gano una comisión.</p>
 </article>
-<article id="dos" class="opcion-dos display-dos">
+<article id="dos">
 <h2 class="titulo-propuesta">Te ayudo a hacerlo, tú le sigues.</h2>
 <p>Tengo 2 opciones para ayudarte a acelerar el crecimiento de tu negocio.</p>
 <br />
@@ -101,7 +101,7 @@ function custom_genesis_servicespage_loop() {
 </div>
 </article>
 <span class="clear-line"></span>
-<article id="tres" class="opcion-tres display-tres">
+<article id="tres">
 <h2 class="titulo-propuesta">Lo&nbsp;aterrizamos juntos y yo le sigo.</h2>
 <p>Creo una página 100% personalizada para transformar tu idea en realidad, con una arquitectura y estructura de información lógica y estratégica para que alcances de manera más rápida lo que quieres conseguir.</p>
 <p class="incluye">Incluye:</p>

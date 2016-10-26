@@ -3076,13 +3076,6 @@ Pagina Servicios
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003123}}
-.display-uno,
-.display-dos,
-.display-tres {
-  display: none;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003129}}
 .titulo-propuesta {
   padding: 40px 20px;
   text-align: center;
@@ -3090,24 +3083,24 @@ Pagina Servicios
   font-weight: normal;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003136}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003130}}
 .contenido-propuestas p,
 .contenido-propuestas li {
   font-size: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003135}}
 .precio {
   padding: 15px;
   font-weight: 700;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003140}}
 .incluye {
   font-weight: bold;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003150}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/chu\/michelventura\.com\/public\/wp-content\/themes\/mich-starter\/assets\/scss\/partials\/_custom-page-templates\.scss}line{font-family:\00003144}}
 .disclaimer {
   font-size: 16px !important;
   font-style: italic;
